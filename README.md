@@ -1,7 +1,7 @@
 # Programacion-en-java
 
 ```
-Proyectos para la asignatura **Tecnologías de la programación** del grado de **Ingeniería informática** de la UCM.
+Proyectos para la asignatura **Tecnologías de la programación** del grado de *Ingeniería informática* de la UCM.
 ```
 
 ## Comenzando :running:
